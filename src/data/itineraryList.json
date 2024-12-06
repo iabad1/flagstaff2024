@@ -1,125 +1,131 @@
 [
     
         {
-            "date": "2024-12-06",
+            "id": 1,
+            "emoji": "🎉",
+            "date": "12/6/2024",
             "theme": "The Celebration Begins",
             "dressCode": "Cute outdoor clothes/dinner clothes, comfortable for walking around",
             "items": [
                 {
                     "description": "Eat breakfast",
-                    "startTime": "06:00:00",
+                    "startTime": "6am",
                     "endTime": "",
                     "location": "High Motor Lodge Restaurant",
                     "url": "https://highcountrymotorlodge.com/wp-content/uploads/2024/08/HCML_MainMenu_JULY24.pdf"
                 },
                 {
                     "description": "Find bookstores",
-                    "startTime": "15:00:00",
-                    "endTime": "17:00:00",
+                    "startTime": "3pm",
+                    "endTime": "5pm",
                     "location": "Bookmans Flagstaff Entertainment Exchange",
                     "url": "https://bookmans.com/"
                 },
                 {
                     "description": "Eat dinner and celebrate 22 months",
-                    "startTime": "17:00:00",
-                    "endTime": "18:00:00",
+                    "startTime": "5pm",
+                    "endTime": "6pm",
                     "location": "Tinderbox Kitchen",
                     "url": "https://www.tinderboxkitchen.com/menus/"
                 },
                 {
                     "description": "First Friday ArtWalk",
-                    "startTime": "18:00:00",
-                    "endTime": "20:00:00",
+                    "startTime": "6pm",
+                    "endTime": "7pm",
                     "location": "Downtown Flagstaff",
                     "url": "https://downtownflagstaff.org/events/first-friday-art-walk"
                 },
                 {
                     "description": "Nordic Spa Experience",
-                    "startTime": "20:00:00",
-                    "endTime": "21:00:00",
+                    "startTime": "8pm",
+                    "endTime": "8:50pm",
                     "location": "High Country Motor Lodge",
                     "url": ""
                 }
             ]
         },
         {
-            "date": "2024-12-07",
+            "id": 2,
+            "emoji": "⛄",
+            "date": "12/7/2024",
             "theme": "Christmas Wonderland!",
             "dressCode": "Snow outfit, thick jacket and pants, beanie/hoodie",
             "items": [
                 {
                     "description": "Eat breakfast",
-                    "startTime": "08:00:00",
+                    "startTime": "8am",
                     "endTime": "",
                     "location": "Tourist Home Flagstaff Cafe",
                     "url": "https://www.touristhomecafe.com/menus/"
                 },
                 {
                     "description": "Play with snow",
-                    "startTime": "09:00:00",
-                    "endTime": "10:00:00",
+                    "startTime": "9am",
+                    "endTime": "10am",
                     "location": "Thorpe Park",
                     "url": "https://www.flagstaff.az.gov/4816/Thorpe-Park-Concept"
                 },
                 {
                     "description": "Snowbowl Gondola Lift",
-                    "startTime": "10:00:00",
-                    "endTime": "11:00:00",
+                    "startTime": "10am",
+                    "endTime": "11am",
                     "location": "Arizona Snowbowl",
                     "url": ""
                 },
                 {
                     "description": "Snowflake Festival",
-                    "startTime": "12:00:00",
-                    "endTime": "13:00:00",
+                    "startTime": "12pm",
+                    "endTime": "1pm",
                     "location": "Flagstaff Visitor Center",
                     "url": "https://www.flagstaff365.com/event/2024-snowflake-festival/"
                 },
                 {
                     "description": "Winter Wonderland Horse-Drawn Carriage Rides",
-                    "startTime": "13:00:00",
-                    "endTime": "16:00:00",
+                    "startTime": "1pm",
+                    "endTime": "4pm",
                     "location": "Flagstaff Visitor Center",
                     "url": "https://www.flagstaff365.com/event/winter-wonderland-horse-drawn-carriage-rides/"
                 },
                 {
                     "description": "Eat dinner",
-                    "startTime": "16:00:00",
-                    "endTime": "17:00:00",
+                    "startTime": "5pm",
+                    "endTime": "6pm",
                     "location": "Karma Sushi",
                     "url": "https://karmaflagstaff.com/menu/"
                 },
                 {
                     "description": "Explore the stars",
-                    "startTime": "18:00:00",
-                    "endTime": "22:00:00",
+                    "startTime": "6pm",
+                    "endTime": "10pm",
                     "location": "Lowell Observatory",
                     "url": "https://lowell.edu/"
                 }
             ]
         },
         {
-            "date": "2024-12-08",
+            "id": 3,
+            "emoji": "⛺",
+            "date": "12/8/2024",
             "theme": "Picnic at the park",
             "dressCode": "Chill on the road outfit, light jacket, and cozy clothes",
             "items": [
                 {
                     "description": "Checkout of hotel",
-                    "startTime": "11:00:00",
+                    "startTime": "11pm",
                     "endTime": "",
                     "location": "High Motor Lodge",
                     "url": ""
                 },
                 {
                     "description": "Grab Lunch, hike, and eat at a scenic locations",
-                    "startTime": "11:30:00",
+                    "startTime": "11:30pm",
                     "endTime": "",
                     "location": "Walnut Canyon or Aspen Nature Loop",
                     "url": ""
                 },
                 {
                     "description": "Head home",
-                    "startTime": "15:00:00",
+                    "startTime": "3pma",
                     "endTime": "",
                     "location": "",
                     "url": ""

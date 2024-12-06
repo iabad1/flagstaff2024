@@ -1,5 +1,11 @@
+html {
+  scroll-behavior: smooth;
+}
 body {
+  background-color: #F5F5DC;
+  color: rgb(167, 167, 150);
   margin: 0;
+  width: 100%;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -11,3 +17,54 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1{
+  color: #cfaf7f;
+}
+h2{
+  color: #898979;
+}
+h3{
+  color: rgb(161, 161, 137);
+}
+hr{
+  border-color: #eaeac8;
+  
+}
+
+a:link {
+  color: rgb(161, 161, 137);
+  background-color: transparent;
+}
+
+a:visited {
+  color: rgb(121, 121, 105);
+  background-color: transparent;
+}
+
+header{
+   text-align: center;
+}
+section{
+  padding: 10px 0 10px 0;
+}
+#adventure{
+  text-decoration: none;
+  background-color: #898979;
+  color: #F5F5DC;
+  padding: 10px;
+  border-radius: 10px;
+}
+.main-container{
+  padding: 20px;
+}
+
+#upload-button-container{
+  text-align: center;
+  width: 100%;
+}
+#upload-button{
+  width: 100%;
+  margin: 0 auto;
+}
+
