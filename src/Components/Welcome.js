@@ -27,7 +27,7 @@ export default function Welcome({today, itineraryList}){
                 ).map(filteredItem=>{
                     return(
                         <>
-                        <p>Today's Theme: {filteredItem.theme}</p>
+                        <p>Today's Theme: {filteredItem.theme} {filteredItem.emoji}</p>
                         <p>Today's Dress Code: {filteredItem.dressCode}</p>
                         <a href={`#${filteredItem.id}`} id="adventure">View Today’s Adventure</a>
 
