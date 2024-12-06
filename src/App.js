@@ -1,12 +1,13 @@
 
 import './App.css';
+import itineraryList from './data/itineraryList.json'
+import Itinerary from './Components/Itinerary';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        
-      </header>
+      <Itinerary itineraryList={itineraryList}/>
     </div>
   );
 }
