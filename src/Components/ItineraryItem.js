@@ -18,7 +18,7 @@ export default function ItineraryItem({itineraryItem}){
                             }
                                 
                                 
-                            </span> : ""
+                            </span> : " "
                         } 
                        
                     </td>
