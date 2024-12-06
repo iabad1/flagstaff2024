@@ -1,6 +1,7 @@
 {
   "name": "flagstaff-itinerary",
   "version": "0.1.0",
+  "homepage": "https://iabad1.github.io/flagstaff2024/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
